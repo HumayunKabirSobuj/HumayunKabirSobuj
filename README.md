@@ -1,6 +1,6 @@
 ![logo](https://github.com/HumayunKabirSobuj/HumayunKabirSobuj/blob/main/GithubBanner.jpg)
 <h1 align="center">Hi 👋, I'm Md.Humayun Kabir Sobuj</h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
+<h3 align="center">Hi, I'm Humayun, a passionate Junior Web Developer specializing in React and the MERN stack. I thrive on creating innovative, user-friendly web applications and am always eager to learn new technologies. Let's connect and collaborate to build something amazing together!</h3>
 
 
 
