@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React, JavaScript**
 
-- 📫 How to reach me **mdhumayunkabirbd586@gmail.com**
+- 📫 How to reach me **md.humayunkabirsobuj506034@gmail.com**
 
 <br>
 
